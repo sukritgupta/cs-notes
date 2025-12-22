@@ -1,12 +1,12 @@
 # Meyer's Singleton  
 Creates one object for class
 
-> Prefer auto object creation rather than Pointer
-> Return object by reference
-> Use object by reference while calling
-> No need to destroy(even static pointer)
-> Make constructor private
-> Delete Copy constructor and assignment operator (Optionally move constructor and move assignment operator also). 
+> Prefer auto object creation rather than Pointer  
+> Return object by reference  
+> Use object by reference while calling  
+> No need to destroy(even static pointer)  
+> Make constructor private  
+> Delete Copy constructor and assignment operator (Optionally move constructor and move assignment operator also).   
 
 
 ```cpp
