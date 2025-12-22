@@ -1,4 +1,4 @@
-#Meyer's Singleton
+#Meyer's Singleton  
 Creates one object for class
 
 > Prefer auto object creation rather than Pointer
